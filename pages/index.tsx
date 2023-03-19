@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by hello2&nbsp;
+            Get started by staging&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
